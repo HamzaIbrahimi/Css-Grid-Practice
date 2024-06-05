@@ -5,11 +5,11 @@
 <div style = 'display:flex; gap: 10px; align-items: center;'>
     <div>
     <div style = 'text-align:center'> Screen Shot from Instagram </div>
-    <img src = 'result/IMG_6117.PNG' alt = 'Instagram Photo' style = 'width: 800px; height: 300px; object-fit:cover;'>
+    <img src = 'result/IMG_6117.PNG' alt = 'Instagram Photo' >
     </div>
     <div>
     <div style = 'text-align:center'> My Copy </div>
-    <img src = 'result/my-result.PNG' alt = 'Instagram Photo' >
+    <img src = 'result/my-result.png' alt = 'Instagram Photo' >
     </div>
     
 </div>
