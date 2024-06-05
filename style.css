@@ -74,6 +74,7 @@ img {
     background-size: cover;
     background-position: center;
     border-radius: 50%;
+    height: 330px;
 }
 
 .yellow {
@@ -88,7 +89,7 @@ img {
 
 .pink {
     grid-area: 1/3/2/4;
-    background: pink;
+    background: rgb(218, 88, 109);
 }
 
 .purple {
