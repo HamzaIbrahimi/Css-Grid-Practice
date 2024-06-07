@@ -15,7 +15,6 @@ for (const children of container.children) {
 container.addEventListener('mouseover', (e) => {
   if (e.target && e.target.className.includes('image')) {
       e.target.style.transform = 'scaleX(-1)';
-
   }
 })
 
