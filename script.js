@@ -45,10 +45,9 @@ function randomHex () {
 container.addEventListener('mouseover', (e) => {
   
   if (e.target && !e.target.className.includes('image') &&
-      !e.target.className.includes('background')
-) {
+      !e.target.className.includes('background'))
+ {
       e.target.style.background = randomHex() ;
-      console.log(e.target);
   }
 })
 
