@@ -47,7 +47,6 @@ img {
 .image-one {
     grid-area: 1/2/2/3;
     background: url(./images/charlesdeluvio-K4mSJ7kc0As-unsplash.jpg);
-    background-color: limegreen;
 }   
 
 .image-two {
@@ -65,7 +64,7 @@ img {
 
 .green-background {
     grid-area: 1/4/6/5;
-    background: green;
+    background: rgb(22, 132, 22);
 }
 
  .image-four {
