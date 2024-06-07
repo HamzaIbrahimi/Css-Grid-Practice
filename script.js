@@ -24,14 +24,6 @@ container.addEventListener('mouseout', (e) => {
 }
 })
 
-container.addEventListener('mouseover', (e) => {
-  if (e.target && e.target.className === 'image-three') {
-      e.target.style.transform = 'scaleX(1)';
-  }
-})
-
-
-
 function randomHex () {
     let hex = '0123456789abcdef';
     let hash = '#';
